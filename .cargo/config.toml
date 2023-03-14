@@ -1,0 +1,4 @@
+[env]
+LIBTORCH="${HOME}/.local/libtorch"
+LD_LIBRARY_PATH="${LIBTORCH}/lib:$LD_LIBRARY_PATH"
+
