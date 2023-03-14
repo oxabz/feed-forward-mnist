@@ -1,0 +1,6 @@
+[env]
+LIBTORCH="${HOME}/.local/libtorch"
+LD_LIBRARY_PATH="${LIBTORCH}/lib:$LD_LIBRARY_PATH"
+
+# LIBTORCH="C:\\Users\\legma\\.local\\libtorch"
+# LD_LIBRARY_PATH="C:\\Users\\legma\\.local\\libtorch\\lib"
